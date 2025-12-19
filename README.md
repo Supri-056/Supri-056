@@ -42,19 +42,15 @@ I enjoy learning new tools, solving real-world problems, and improving my skills
 
 ### **🟦 AWS S3 Static Website Hosting**
 A basic static website hosted on Amazon S3 with IAM-based secure access.  
-➡️ *[Add your repository link here]*
 
 ### **🟩 EC2 Web Server Deployment**
 Configured an EC2 instance, installed Apache/Nginx, deployed a sample webpage, and managed security groups.  
-➡️ *[Add your repository link here]*
 
 ### **🟧 Dockerized Python App**
 Containerized a simple Python Flask application and ran it using Docker CLI.  
-➡️ *[Add your repository link here]*
 
 ### **🟥 Cloud Monitoring with CloudWatch**
 Created alarms, logs, and dashboards for EC2 instance monitoring.  
-➡️ *[Add your repository link here]*
 
 ---
 
@@ -69,9 +65,9 @@ Created alarms, logs, and dashboards for EC2 instance monitoring.
 
 ## 🌍 **Let’s Connect**
 
-- 💼 LinkedIn: *[Add your LinkedIn link]*  
+- 💼 LinkedIn: www.linkedin.com/in/supreeth-c-63669225b
 - 🌐 Portfolio: *Coming soon*  
-- 📧 Email: *Add here if you want*
+- 📧 Email: supreethc2002@gmail.com
 
 ---
 
